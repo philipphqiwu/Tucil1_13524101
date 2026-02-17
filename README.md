@@ -1,6 +1,6 @@
 # Brute-Force LinkedIn Queens Solver
 
-A desktop application that solves the LinkedIn Queens puzzle using both **brute-force** and **backtracking** approaches. The solver tests queen placements across colored regions to find valid configurations where exactly one queen is placed per row, column, and color region — with no two queens adjacent (including diagonals).
+A desktop application that solves the LinkedIn Queens puzzle using both **brute-force** and **backtracking** approaches. The solver tests queen placements across colored regions to find valid configurations where exactly one queen is placed per row, column, and color region, with no two queens adjacent (including diagonals).
 
 Built with **Qt 6 / QML** for a modern graphical interface and a C++ backend implementing the MVC (Model-View-Controller) architecture. The app features a live visualization of the solving process, configurable solve speed, and the ability to load/save board configurations.
 
