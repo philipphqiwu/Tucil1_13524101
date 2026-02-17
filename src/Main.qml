@@ -5,6 +5,7 @@ ApplicationWindow {
     width: 1000
     height: 600
     visible: true
+    visibility: Window.Maximized
     title: qsTr("Queens")
 
     background: Rectangle {

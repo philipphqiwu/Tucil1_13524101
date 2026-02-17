@@ -1,12 +1,10 @@
-// Copyright (C) 2023 The Qt Company Ltd.
-// SPDX-License-Identifier: LicenseRef-Qt-Commercial OR BSD-3-Clause
 import QtQuick
 import QtQuick.Layouts
+import QtQuick.Controls
 
 Item {
     id: solvingscreen
     property alias grid: grid
-    // property alias caption: caption
 
     states: [
         State {
@@ -26,7 +24,7 @@ Item {
 
         Text {
             id: header
-            text: qsTr("Solving...")
+            text: QueensController.solving ? qsTr("Solving...") : qsTr("Done!")
             font.pixelSize: 32
             font.weight: 700
             color: Colors.currentTheme.textColor
@@ -34,6 +32,72 @@ Item {
             Layout.topMargin: 20
         }
 
+        Text {
+            id: iterText
+            text: "Iteration: " + QueensController.iteration
+            font.pixelSize: 16
+            color: Colors.currentTheme.textColor
+            Layout.alignment: Qt.AlignHCenter
+            Layout.topMargin: 5
+        }
 
+        BoardGrid {
+            cellSize: Math.min(40, (solvingscreen.width * 0.7) / Math.max(1, QueensController.queensModel.boardSize))
+            showQueens: true
+            animateChanges: false
+            Layout.alignment: Qt.AlignHCenter
+            Layout.topMargin: 10
+        }
+
+        Row {
+            Layout.alignment: Qt.AlignHCenter
+            Layout.topMargin: 15
+            spacing: 8
+
+            Text {
+                text: "Update every:"
+                font.pixelSize: 14
+                color: Colors.currentTheme.textColor
+                anchors.verticalCenter: parent.verticalCenter
+            }
+            Slider {
+                id: intervalSlider
+                from: 1; to: 500; value: QueensController.updateInterval
+                stepSize: 1
+                width: 150
+                onValueChanged: QueensController.updateInterval = value
+            }
+            Text {
+                text: intervalSlider.value.toFixed(0) + " iter"
+                font.pixelSize: 14
+                color: Colors.currentTheme.textColor
+                anchors.verticalCenter: parent.verticalCenter
+            }
+        }
+
+        Row {
+            Layout.alignment: Qt.AlignHCenter
+            spacing: 8
+
+            Text {
+                text: "Delay:"
+                font.pixelSize: 14
+                color: Colors.currentTheme.textColor
+                anchors.verticalCenter: parent.verticalCenter
+            }
+            Slider {
+                id: delaySlider
+                from: 0; to: 500; value: QueensController.delayMs
+                stepSize: 5
+                width: 150
+                onValueChanged: QueensController.delayMs = value
+            }
+            Text {
+                text: delaySlider.value.toFixed(0) + " ms"
+                font.pixelSize: 14
+                color: Colors.currentTheme.textColor
+                anchors.verticalCenter: parent.verticalCenter
+            }
+        }
     }
 }

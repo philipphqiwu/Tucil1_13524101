@@ -31,11 +31,6 @@ ApplicationFlowForm {
         stack.pushItem(applicationFlow.inputScreen, {appFlow: applicationFlow})
     }
 
-    // function inputTxtButton() {
-    //     applicationFlow.state = "Input"
-    //     stack.pushItem(applicationFlow.inputScreen, {appFlow: applicationFlow})
-    // }
-
     function onGoToSolving() {
         applicationFlow.state = "Solving"
         stack.pushItem(applicationFlow.solvingScreen, {appFlow: applicationFlow})

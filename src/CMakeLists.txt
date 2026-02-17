@@ -48,6 +48,11 @@ qt_add_qml_module(appqueenss
         QML_FILES ResultsScreen.qml
         QML_FILES ResultsScreenForm.ui.qml
         QML_FILES SolvingScreenForm.ui.qml
+        QML_FILES BoardGrid.qml
+        SOURCES backend/queensparser.h backend/queensparser.cpp
+        SOURCES backend/queensmodel.h backend/queensmodel.cpp
+        SOURCES backend/queenscontroller.h backend/queenscontroller.cpp
+        SOURCES backend/queenssolver.h backend/queenssolver.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
