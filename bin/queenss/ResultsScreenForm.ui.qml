@@ -39,7 +39,10 @@ Item {
 
         BoardGrid {
             id: boardGrid
-            cellSize: Math.min(44, (resultsscreen.width * 0.7) / Math.max(1, QueensController.queensModel.boardSize))
+            cellSize: Math.max(12, Math.min(44, Math.min(
+                (resultsscreen.width * 0.85) / Math.max(1, QueensController.queensModel.boardSize),
+                (resultsscreen.height * 0.50) / Math.max(1, QueensController.queensModel.boardSize)
+            )))
             showQueens: true
             animateChanges: false
             Layout.alignment: Qt.AlignHCenter

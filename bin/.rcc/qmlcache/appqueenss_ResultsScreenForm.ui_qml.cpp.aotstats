@@ -74,7 +74,7 @@
                             "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "alignment",
-                            "line": 45,
+                            "line": 48,
                             "message": ""
                         },
                         {
@@ -82,39 +82,15 @@
                             "column": 19,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 50,
-                            "message": "Cannot access value for name QueensController"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 20,
-                            "durationMicroseconds": 3000,
-                            "functionName": "color",
-                            "line": 52,
-                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (adjusted to QColor, stored as QVariant)"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 31,
-                            "durationMicroseconds": 0,
-                            "functionName": "alignment",
                             "line": 53,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 19,
-                            "durationMicroseconds": 0,
-                            "functionName": "text",
-                            "line": 58,
                             "message": "Cannot access value for name QueensController"
                         },
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 0,
+                            "durationMicroseconds": 1000,
                             "functionName": "color",
-                            "line": 60,
+                            "line": 55,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (adjusted to QColor, stored as QVariant)"
                         },
                         {
@@ -122,7 +98,31 @@
                             "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "alignment",
+                            "line": 56,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
                             "line": 61,
+                            "message": "Cannot access value for name QueensController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 63,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (adjusted to QColor, stored as QVariant)"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "alignment",
+                            "line": 64,
                             "message": ""
                         },
                         {
@@ -130,7 +130,7 @@
                             "column": 22,
                             "durationMicroseconds": 0,
                             "functionName": "visible",
-                            "line": 70,
+                            "line": 73,
                             "message": ""
                         },
                         {
@@ -138,7 +138,7 @@
                             "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "alignment",
-                            "line": 69,
+                            "line": 72,
                             "message": ""
                         },
                         {
@@ -146,7 +146,7 @@
                             "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "alignment",
-                            "line": 74,
+                            "line": 77,
                             "message": ""
                         }
                     ],

@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 5000,
+                            "durationMicroseconds": 2000,
                             "functionName": "color",
                             "line": 30,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (adjusted to QColor, stored as QVariant)"
@@ -98,7 +98,7 @@
                             "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "alignment",
-                            "line": 48,
+                            "line": 51,
                             "message": ""
                         },
                         {
@@ -106,7 +106,7 @@
                             "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "alignment",
-                            "line": 53,
+                            "line": 56,
                             "message": ""
                         },
                         {
@@ -114,7 +114,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "color",
-                            "line": 60,
+                            "line": 63,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (adjusted to QColor, stored as QVariant)"
                         },
                         {
@@ -122,7 +122,7 @@
                             "column": 41,
                             "durationMicroseconds": 0,
                             "functionName": "verticalCenter",
-                            "line": 61,
+                            "line": 64,
                             "message": ""
                         },
                         {
@@ -130,7 +130,7 @@
                             "column": 42,
                             "durationMicroseconds": 0,
                             "functionName": "value",
-                            "line": 65,
+                            "line": 68,
                             "message": "Could not find property \"value\"."
                         },
                         {
@@ -138,7 +138,7 @@
                             "column": 33,
                             "durationMicroseconds": 0,
                             "functionName": "onValueChanged",
-                            "line": 68,
+                            "line": 71,
                             "message": "Could not find signal \"valueChanged\"."
                         },
                         {
@@ -146,7 +146,7 @@
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 71,
+                            "line": 74,
                             "message": "Cannot retrieve a non-object type by ID: intervalSlider"
                         },
                         {
@@ -154,7 +154,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "color",
-                            "line": 73,
+                            "line": 76,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (adjusted to QColor, stored as QVariant)"
                         },
                         {
@@ -162,7 +162,7 @@
                             "column": 41,
                             "durationMicroseconds": 0,
                             "functionName": "verticalCenter",
-                            "line": 74,
+                            "line": 77,
                             "message": ""
                         },
                         {
@@ -170,7 +170,7 @@
                             "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "alignment",
-                            "line": 79,
+                            "line": 82,
                             "message": ""
                         },
                         {
@@ -178,7 +178,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "color",
-                            "line": 85,
+                            "line": 88,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (adjusted to QColor, stored as QVariant)"
                         },
                         {
@@ -186,7 +186,7 @@
                             "column": 41,
                             "durationMicroseconds": 0,
                             "functionName": "verticalCenter",
-                            "line": 86,
+                            "line": 89,
                             "message": ""
                         },
                         {
@@ -194,7 +194,7 @@
                             "column": 42,
                             "durationMicroseconds": 0,
                             "functionName": "value",
-                            "line": 90,
+                            "line": 93,
                             "message": "Could not find property \"value\"."
                         },
                         {
@@ -202,7 +202,7 @@
                             "column": 33,
                             "durationMicroseconds": 0,
                             "functionName": "onValueChanged",
-                            "line": 93,
+                            "line": 96,
                             "message": "Could not find signal \"valueChanged\"."
                         },
                         {
@@ -210,7 +210,7 @@
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 96,
+                            "line": 99,
                             "message": "Cannot retrieve a non-object type by ID: delaySlider"
                         },
                         {
@@ -218,7 +218,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "color",
-                            "line": 98,
+                            "line": 101,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss/Colors.qml)::textColor with type QColor (adjusted to QColor, stored as QVariant)"
                         },
                         {
@@ -226,7 +226,7 @@
                             "column": 41,
                             "durationMicroseconds": 0,
                             "functionName": "verticalCenter",
-                            "line": 99,
+                            "line": 102,
                             "message": ""
                         }
                     ],

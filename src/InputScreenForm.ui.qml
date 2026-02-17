@@ -66,7 +66,10 @@ Item {
 
         BoardGrid {
             visible: QueensController.boardLoaded
-            cellSize: Math.min(28, (inputscreen.width * 0.6) / Math.max(1, QueensController.queensModel.boardSize))
+            cellSize: Math.max(12, Math.min(28, Math.min(
+                (inputscreen.width * 0.85) / Math.max(1, QueensController.queensModel.boardSize),
+                (inputscreen.height * 0.45) / Math.max(1, QueensController.queensModel.boardSize)
+            )))
             showQueens: false
             Layout.alignment: Qt.AlignHCenter
             Layout.topMargin: 10
