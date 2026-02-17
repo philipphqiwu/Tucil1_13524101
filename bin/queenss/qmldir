@@ -1,0 +1,24 @@
+module queenss
+typeinfo appqueenss.qmltypes
+prefer :/qt/qml/queenss/
+Main 254.0 Main.qml
+ApplicationFlow 254.0 ApplicationFlow.qml
+ApplicationFlowForm 254.0 ApplicationFlowForm.ui.qml
+singleton Colors 254.0 Colors.qml
+CustomToolBar 254.0 CustomToolBar.qml
+CustomToolBarForm 254.0 CustomToolBarForm.ui.qml
+Home 254.0 Home.qml
+HomeForm 254.0 HomeForm.ui.qml
+CustomButton 254.0 CustomButton.qml
+CustomButtonForm 254.0 CustomButtonForm.ui.qml
+HowToPlay 254.0 HowToPlay.qml
+HowToPlayForm 254.0 HowToPlayForm.ui.qml
+InputScreen 254.0 InputScreen.qml
+InputScreenForm 254.0 InputScreenForm.ui.qml
+SolvingScreen 254.0 SolvingScreen.qml
+ResultsScreen 254.0 ResultsScreen.qml
+ResultsScreenForm 254.0 ResultsScreenForm.ui.qml
+SolvingScreenForm 254.0 SolvingScreenForm.ui.qml
+BoardGrid 254.0 BoardGrid.qml
+depends QtQuick
+

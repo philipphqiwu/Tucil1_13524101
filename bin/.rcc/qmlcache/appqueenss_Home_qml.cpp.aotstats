@@ -1,0 +1,39 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 1000,
+                            "functionName": "when",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "target",
+                            "line": 12,
+                            "message": "Cannot access value for name header"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "target",
+                            "line": 16,
+                            "message": "Cannot access value for name caption"
+                        }
+                    ],
+                    "filePath": "C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Home.qml"
+                }
+            ],
+            "moduleId": "queenss(appqueenss)"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "currentTheme",
+                            "line": 130,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 34,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::cardColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::cardColor with type QColor (adjusted to QColor, stored as QVariant)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 35,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::borderColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::borderColor with type QColor (adjusted to QColor, stored as QVariant)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 39,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::borderColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::borderColor with type QColor (adjusted to QColor, stored as QVariant)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 40,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::cardColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::cardColor with type QColor (adjusted to QColor, stored as QVariant)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 59,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::cardColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::cardColor with type QColor (adjusted to QColor, stored as QVariant)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 66,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::cardColor with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::cardColor with type QColor (adjusted to QColor, stored as QVariant)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 100,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::background with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::background with type QColor (adjusted to QColor, stored as QVariant)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 115,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::background with type QColor (stored as QVariant) -> (component in C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml)::background with type QColor (adjusted to QColor, stored as QVariant)"
+                        }
+                    ],
+                    "filePath": "C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml"
+                }
+            ],
+            "moduleId": "queenss(appqueenss)"
+        }
+    ]
+}

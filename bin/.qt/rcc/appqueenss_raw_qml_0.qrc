@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/qt/qml/queenss/">
+    <file alias="Main.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Main.qml</file>
+    <file alias="ApplicationFlow.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/ApplicationFlow.qml</file>
+    <file alias="ApplicationFlowForm.ui.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/ApplicationFlowForm.ui.qml</file>
+    <file alias="Colors.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Colors.qml</file>
+    <file alias="CustomToolBar.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/CustomToolBar.qml</file>
+    <file alias="CustomToolBarForm.ui.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/CustomToolBarForm.ui.qml</file>
+    <file alias="Home.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Home.qml</file>
+    <file alias="HomeForm.ui.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/HomeForm.ui.qml</file>
+    <file alias="CustomButton.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/CustomButton.qml</file>
+    <file alias="CustomButtonForm.ui.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/CustomButtonForm.ui.qml</file>
+    <file alias="HowToPlay.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/HowToPlay.qml</file>
+    <file alias="HowToPlayForm.ui.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/HowToPlayForm.ui.qml</file>
+    <file alias="InputScreen.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/InputScreen.qml</file>
+    <file alias="InputScreenForm.ui.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/InputScreenForm.ui.qml</file>
+    <file alias="SolvingScreen.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/SolvingScreen.qml</file>
+    <file alias="ResultsScreen.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/ResultsScreen.qml</file>
+    <file alias="ResultsScreenForm.ui.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/ResultsScreenForm.ui.qml</file>
+    <file alias="SolvingScreenForm.ui.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/SolvingScreenForm.ui.qml</file>
+    <file alias="BoardGrid.qml">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/BoardGrid.qml</file>
+  </qresource>
+</RCC>
+

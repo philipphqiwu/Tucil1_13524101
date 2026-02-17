@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src
+-cmake-output
+-output-file
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/.qt/qml_imports/appqueenss_build.cmake
+-importPath
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release
+-importPath
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss
+-importPath
+C:/Qt/6.10.2/mingw_64/qml
+-qrcFiles
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/.qt/rcc/qmake_queenss.qrc
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/.qt/rcc/appqueenss_raw_qml_0.qrc
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/.qt/rcc/appqueenss_raw_res_0.qrc

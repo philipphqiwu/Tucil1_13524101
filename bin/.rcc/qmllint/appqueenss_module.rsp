@@ -1,0 +1,16 @@
+-I
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release
+-I
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/queenss
+-I
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release
+-I
+C:/Qt/6.10.2/mingw_64/qml
+--resource
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/.qt/rcc/qmake_queenss.qrc
+--resource
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/.qt/rcc/appqueenss_raw_qml_0.qrc
+--resource
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/.qt/rcc/appqueenss_raw_res_0.qrc
+--module
+queenss

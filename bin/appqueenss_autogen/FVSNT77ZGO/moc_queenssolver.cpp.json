@@ -1,0 +1,76 @@
+{
+    "classes": [
+        {
+            "className": "QueensSolver",
+            "lineNumber": 12,
+            "object": true,
+            "qualifiedClassName": "QueensSolver",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "cells",
+                            "type": "QList<Cell>"
+                        },
+                        {
+                            "name": "size",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 30,
+                    "name": "boardUpdated",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "iteration",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 31,
+                    "name": "iterationUpdated",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "solved",
+                            "type": "bool"
+                        },
+                        {
+                            "name": "totalIterations",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 32,
+                    "name": "finished",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 3,
+                    "lineNumber": 27,
+                    "name": "solve",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "queenssolver.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,3 @@
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/appqueenss_autogen/include/../FVSNT77ZGO/moc_queenscontroller.cpp.json
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/appqueenss_autogen/include/../FVSNT77ZGO/moc_queensmodel.cpp.json
+C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/appqueenss_autogen/include/../FVSNT77ZGO/moc_queenssolver.cpp.json

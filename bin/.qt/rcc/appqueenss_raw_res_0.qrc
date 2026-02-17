@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/qt/qml/queenss/">
+    <file alias="Resources/images/icons/light_mode_black_24dp.svg">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/icons/light_mode_black_24dp.svg</file>
+    <file alias="Resources/images/icons/keyboard_backspace_white_right.svg">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/icons/keyboard_backspace_white_right.svg</file>
+    <file alias="Resources/images/icons/keyboard_backspace_white_left.svg">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/icons/keyboard_backspace_white_left.svg</file>
+    <file alias="Resources/images/icons/keyboard_backspace_black_right.svg">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/icons/keyboard_backspace_black_right.svg</file>
+    <file alias="Resources/images/icons/keyboard_backspace_black_left.svg">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/icons/keyboard_backspace_black_left.svg</file>
+    <file alias="Resources/images/icons/keyboard_backspace_black.svg">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/icons/keyboard_backspace_black.svg</file>
+    <file alias="Resources/images/icons/dark_mode_black_24dp.svg">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/icons/dark_mode_black_24dp.svg</file>
+    <file alias="Resources/images/boards/home.png">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/boards/home.png</file>
+    <file alias="Resources/images/boards/rule1.png">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/boards/rule1.png</file>
+    <file alias="Resources/images/boards/rule2.png">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/boards/rule2.png</file>
+    <file alias="Resources/images/boards/rule3.png">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/boards/rule3.png</file>
+    <file alias="Resources/images/boards/rule4.png">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/boards/rule4.png</file>
+    <file alias="Resources/images/icons/logo.png">C:/Users/vivobook/Documents/GitHub/Tucil1_13524101/src/Resources/images/icons/logo.png</file>
+  </qresource>
+</RCC>
+
